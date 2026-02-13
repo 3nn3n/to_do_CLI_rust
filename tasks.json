@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "title": "Learn Rust",
+    "completed": true,
+    "due_date": "2026-11-24",
+    "priority": "High"
+  }
+]
